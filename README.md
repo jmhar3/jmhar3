@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jessica
+- 👀 I’m interested in Frontend Developement
+- 🌱 I’m currently learning React
+- 💞️ See me work at jmhar3.github.io/portfolio/
+- 📫 You can reach me at jmhar@protonmail.com
