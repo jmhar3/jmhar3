@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jessica
-- 👀 I’m interested in Fullstack Development with a focus in design
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ See me work at jmhar3.github.io/portfolio/
+- 👀 I’m a Full Stack Developor with an interest in UI design
+- 🌱 I’m currently working at HealthAide
+- 💞️ See my work at jmhar.com.au
 - 📫 You can reach me at jmhar@protonmail.com
