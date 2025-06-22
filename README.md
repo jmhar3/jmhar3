@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jessica
-- 👀 I’m a Full Stack Developor with an interest in UI design
-- 🌱 I’m currently working at Perx
+- 👀 I’m a Full Stack Developor with an interest in UI/UX design
+- 🌱 I’m currently working at Mes Cheries
 - 💞️ See my work at jmhar.com.au
 - 📫 You can reach me at jmhar@protonmail.com
